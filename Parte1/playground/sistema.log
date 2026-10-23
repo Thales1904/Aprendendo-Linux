@@ -1,0 +1,6 @@
+[2026-10-23 10:15:02] INFO: Sistema inicializado na porta 8080.
+[2026-10-23 10:16:45] WARNING: Memoria em 85%.
+[2026-10-23 10:18:12] ERROR: Conexao recusada pelo Banco de Dados.
+[2026-10-23 10:20:00] INFO: Requisicao HTTP 200 OK.
+[2026-10-23 10:22:30] ERROR: Timeout ao conectar na API de pagamento.
+[2026-10-23 10:25:10] CRITICAL: Falha no disco principal.
